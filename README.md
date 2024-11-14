@@ -14,6 +14,9 @@ Scroll: Extend only your index finger to scroll up, and extend both your index a
 
 ## Dependencies
 opencv-python (for image processing and accessing the webcam)
+
 mediapipe (for hand tracking)
+
 numpy (for numerical operations)
+
 pyautogui (for controlling mouse and system functions)
